@@ -1,5 +1,6 @@
 # offline_emergency_intelligence_system
 An offline-first mobile application that provides emergency instructions and shelter information during disasters using Flutter and Firebase.  
+
 Offline Emergency Intelligence System 🚨
 📌 Overview
 The Offline Emergency Intelligence System is a mobile application designed to provide critical emergency information during natural disasters such as floods, cyclones, and earthquakes—especially when internet connectivity is unavailable.
